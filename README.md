@@ -21,3 +21,5 @@ Features :
 5+ new survivors 
 5+ immersive mods that brings a lot of new stuff to the game.
 Stage aesthetics, Starstorm2, new survivors, new bosses, items, refreshed stages... And a lot of things to discover....
+
+Thunderstore link: https://thunderstore.io/package/5desyncjustworks/ProjectCatalyst/
